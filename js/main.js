@@ -1,6 +1,7 @@
 //Yêu cầu lấy thông tin người dùng nhập vào (loaiXe, soKm, thoiGianCho)
 //Khi người dùng bấm nút tính tiền => tính tiền dựa trên công thức đề bài
 var loaiXe = 'uberX';
+var bienNe='111111111';
 
 
 document.querySelector('#uberX').onclick = function () {
