@@ -2,6 +2,7 @@
 //Khi người dùng bấm nút tính tiền => tính tiền dựa trên công thức đề bài
 var loaiXe = 'uberX';
 var bienNe='111111111';
+var bienDay='222222';
 
 
 document.querySelector('#uberX').onclick = function () {
